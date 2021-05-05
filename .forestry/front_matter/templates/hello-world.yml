@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: text
+pages:
+- _posts/2021-05-05-test.html
